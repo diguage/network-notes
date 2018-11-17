@@ -1,0 +1,10 @@
+= IPv6
+
+https://labs.apnic.net/presentations/store/2016-05-23-bigipv6.pdf[2016-05-23-bigipv6]
+
+include::example$2016-05-23-bigipv6.pdf[]
+
+[[ipv6-header-format]]
+== 报文格式
+
+image::ipv6-header.png[]

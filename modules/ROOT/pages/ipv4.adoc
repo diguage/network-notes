@@ -1,0 +1,11 @@
+= IPv4
+
+
+image::ipv4-header-color.png[IPv4 Header in color]
+
+image::ipv4-header.png[IPv4 Header]
+
+[[ipv4-header-format]]
+== 报文格式
+
+https://en.wikipedia.org/wiki/IPv4_header_checksum[IPv4 header checksum - Wikipedia]
