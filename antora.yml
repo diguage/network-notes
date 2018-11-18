@@ -1,6 +1,6 @@
 name: network
 title: 计算机网络学习笔记
-version: '0.1.0'
+version: latest
 start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
